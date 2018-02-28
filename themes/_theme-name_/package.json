@@ -1,0 +1,25 @@
+{
+  "name": "wp-theme-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean-dest": "^0.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-dest-clean": "^0.5.0",
+    "gulp-resolve-dependencies": "^2.2.0",
+    "gulp-sass": "^3.1.0"
+  }
+}

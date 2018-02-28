@@ -1,0 +1,4 @@
+/themes/_theme-name_/node_modules/
+/themes/_theme-name_/vendor/
+/themes/_theme-name_/package-lock.json
+.*/

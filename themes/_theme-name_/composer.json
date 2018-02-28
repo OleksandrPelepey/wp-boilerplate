@@ -1,0 +1,12 @@
+{
+    "name": "boosta/_theme-name_",
+    "authors": [
+        {
+            "name": "Author",
+            "email": "author@gmail.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^2.1"
+    }
+}
